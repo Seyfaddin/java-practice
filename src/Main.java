@@ -17,7 +17,7 @@ public class Main {
 
         for (int count : freq) {
             if (count != 0) {
-                return false;
+                return true;
             }
         }
 
